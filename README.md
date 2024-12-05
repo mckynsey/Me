@@ -10,8 +10,7 @@ Je suis  un développeur web junior passionné d'informatique.<br> Je suis doté
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mckynsey&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mckynsey&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mckynsey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mckynsey&icon=0&color=0)](https://visitcount.itsvg.in)
